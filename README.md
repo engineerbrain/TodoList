@@ -2,7 +2,7 @@
 npm start
 
 
-## Proje ilk çalıştığında 
+## Proje ilk açıldığında
 
 ![f6](https://github.com/engineerbrain/todolist/assets/90983466/b1add67b-fa50-4b14-8cd1-16f26a7302a9)
 
